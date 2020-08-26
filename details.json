@@ -1,0 +1,42 @@
+{
+"personaldetails":{
+	    "picture":"divya1.png",
+		"name":"Divya",
+		"mobile":"9867543289",
+		"degree":"btech-ece",
+		"email":"divyavemulakonda1@gmail.com",
+		"address":"vijayawada,bhavanipuram",
+	    "hobbies":["reading story books","playing carooms"],
+       "languagesknown":["telugu","hindi","english"]
+	},
+	"education":[
+	{
+		"standard":"10th",
+		"institute":"srivenkateswaravidhyalayam",
+		"passingyear":"2015-16",
+		"GPA":"9.5"
+	},
+   {		
+   	"standard":"inter-mpc",
+		"institute":"narayna",
+		"passingyear":"2016-18",
+		"GPA":"9.5"
+	
+    },
+    {
+		"standard":"btech-ece",
+		"institute":"LBRCE",
+		"passingyear":"2018-22",
+		"GPA":"9.5"
+	}
+
+	],
+	"projectdetails":["a mini project on home made vaccum cleaner in the event of clg technical fest","a mini project on electronic eye controlled security system",
+      "a mini project on detection of heart disease using matlab"],
+	"skillsummary":["good at VLSI design","good at organising skills"],
+	"carrierobjective":["Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company"]
+}
+
+
+
+
